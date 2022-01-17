@@ -20,3 +20,4 @@
 >   - 快速创建应用：https://github.com/devsapp/fc/blob/main/docs/zh/quick_start_application.md
 >   - 快速使用命令：https://github.com/devsapp/fc/blob/main/docs/zh/quick_start_function.md
 ------------------------------------
+1
